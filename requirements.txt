@@ -1,0 +1,4 @@
+langgraph==1.2.19
+langchain-core==1.7.3
+langchain-openai==1.7.3
+pytest==9.2.0
